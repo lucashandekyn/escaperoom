@@ -1,2 +1,2 @@
 # escaperoom
-Engineering project, make an escape room game
+Engineering project, make kan escape room game
