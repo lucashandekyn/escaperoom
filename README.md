@@ -1,2 +1,2 @@
 # escaperoom
-Engineering project, make an escape room with pygame.
+Engineering project, first year, make an escape room like game with pygame.
