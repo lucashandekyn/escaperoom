@@ -1,3 +1,4 @@
+# This is the file you need to run to start the game
 import pygame, sys
 from pygame.locals import *
 from gamestate import Gamestate
