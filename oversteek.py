@@ -111,7 +111,7 @@ class Main:
                     self.boris.x += 1
                 if event.key == pygame.K_LEFT:
                     self.boris.x -= 1
-        if self.t <= 500:
+        if self.t <= 700:
             self.a = pygame.image.load("foto/bridge.png").convert_alpha()
             self.a = pygame.transform.scale(self.a, (25, 25))
             self.b = pygame.image.load("foto/borisbridge.png").convert_alpha()
