@@ -1,5 +1,11 @@
-# escaperoom
-Engineering project, first year, make an escape room like game with pygame.
+# Escaperoom
+_Engineering project, first year, make an escape room like game with pygame._
 
-To play the game, download alle files and unzip. Go to main.py and run this file, you should now be playing Boris.
-You can also go to this website: https://users.ugent.be/~brsteven/Project/index.html , then go to installation and click the download button.
+### Installation git
+1. To play the game, clone repository in folder. 
+2. Go to main.py and run this file, you should now be playing Boris.
+
+### Installation website
+1. Go to this [website](https://users.ugent.be/~brsteven/Project/index.html) 
+2. Go to installation and click the download button.
+3. Unzip the folder and run the main.py file.
