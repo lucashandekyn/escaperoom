@@ -11,4 +11,6 @@ _Engineering project, first year, make an escape room like game with pygame._
 3. Unzip the folder and run the main.py file.
 
 If you recieve an error go to afvalgame.py and delete the following  
-``` from black import main ```
+```
+from black import main 
+```
