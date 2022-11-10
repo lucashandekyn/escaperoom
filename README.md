@@ -7,6 +7,8 @@ _Engineering project, first year, make an escape room like game with pygame._
 > you could copy and paste this in a directory you want.
 > ```
 > git clone https://github.com/lucashandekyn/escaperoom.git
+> ```
+> ```
 > cd /escaperoom && python3 main.py
 > ```
 
